@@ -2,3 +2,5 @@
 function echoBonjour(){
     console.log("Bonjour");
 }
+// Appel de la fonction
+echoBonjour();
